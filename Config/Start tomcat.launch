@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.ui.externaltools.ProgramLaunchConfigurationType">
+<mapAttribute key="org.eclipse.debug.core.environmentVariables">
+<mapEntry key="CATALINA_HOME" value="C:\VIVO-Trad-ecosysteme\apache-tomcat-8.5.11"/>
+<mapEntry key="JAVA_HOME" value="C:\VIVO-Trad-ecosysteme\jdk1.8.0_171"/>
+</mapAttribute>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LAUNCH_CONFIGURATION_BUILD_SCOPE" value="${none}"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="C:\VIVO-Trad-ecosysteme\apache-tomcat-8.5.11\bin\catalina.bat"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value="jpda start"/>
+</launchConfiguration>
