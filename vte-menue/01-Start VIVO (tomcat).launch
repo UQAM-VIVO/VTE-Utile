@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.ui.externaltools.ProgramLaunchConfigurationType">
+<stringAttribute key="org.eclipse.debug.core.ATTR_REFRESH_SCOPE" value="${resource}"/>
 <mapAttribute key="org.eclipse.debug.core.environmentVariables">
 <mapEntry key="CATALINA_HOME" value="C:\VIVO-Trad-ecosysteme\apache-tomcat-8.5.11"/>
 <mapEntry key="JAVA_HOME" value="C:\VIVO-Trad-ecosysteme\tbcfe-6.1.1\jdk"/>
