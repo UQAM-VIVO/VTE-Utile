@@ -641,4 +641,5 @@ sample-data:n901
 .
 <http://localhost:8080/vivo/vivo-sample_fr-localhost>
   a owl:Ontology ;
+  rdfs:comment "Extract from https://github.com/vivo-project/sample-data/blob/master/sample-data.n3" ;
 .
